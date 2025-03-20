@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Эспрессо",
+    "category": "Кофе",
+    "price": 150,
+    "status": true,
+    "date_created": "2025-03-01"
+  },
+  {
+    "id": 2,
+    "name": "Макиато",
+    "category": "Кофе",
+    "price": 210,
+    "status": true,
+    "date_created": "2025-03-14"
+  },
+  {
+    "id": 3,
+    "name": "Капучино",
+    "category": "Кофе",
+    "price": 200,
+    "status": true,
+    "date_created": "2025-03-02"
+  },
+  {
+    "id": 4,
+    "name": "Латте",
+    "category": "Кофе",
+    "price": 220,
+    "status": false,
+    "date_created": "2025-03-03"
+  },
+  {
+    "id": 5,
+    "name": "Американо",
+    "category": "Кофе",
+    "price": 170,
+    "status": true,
+    "date_created": "2025-03-05"
+  },
+  {
+    "id": 6,
+    "name": "Мокко",
+    "category": "Кофе",
+    "price": 230,
+    "status": true,
+    "date_created": "2025-03-06"
+  },
+  {
+    "id": 7,
+    "name": "Флэт уайт",
+    "category": "Кофе",
+    "price": 250,
+    "status": true,
+    "date_created": "2025-03-07"
+  },
+  {
+    "id": 8,
+    "name": "Чай зелёный",
+    "category": "Чай",
+    "price": 120,
+    "status": true,
+    "date_created": "2025-03-01"
+  },
+  {
+    "id": 9,
+    "name": "Чай чёрный",
+    "category": "Чай",
+    "price": 110,
+    "status": true,
+    "date_created": "2025-03-01"
+  },
+  {
+    "id": 10,
+    "name": "Чай фруктовый",
+    "category": "Чай",
+    "price": 130,
+    "status": false,
+    "date_created": "2025-03-08"
+  },
+  {
+    "id": 11,
+    "name": "Пирог яблочный",
+    "category": "Десерт",
+    "price": 180,
+    "status": true,
+    "date_created": "2025-03-04"
+  },
+  {
+    "id": 12,
+    "name": "Чизкейк",
+    "category": "Десерт",
+    "price": 220,
+    "status": true,
+    "date_created": "2025-03-09"
+  },
+  {
+    "id": 13,
+    "name": "Круассан",
+    "category": "Десерт",
+    "price": 160,
+    "status": true,
+    "date_created": "2025-03-10"
+  },
+  {
+    "id": 14,
+    "name": "Шоколадный маффин",
+    "category": "Десерт",
+    "price": 190,
+    "status": true,
+    "date_created": "2025-03-11"
+  },
+  {
+    "id": 15,
+    "name": "Какао",
+    "category": "Напитки",
+    "price": 180,
+    "status": true,
+    "date_created": "2025-03-12"
+  },
+  {
+    "id": 16,
+    "name": "Матча латте",
+    "category": "Напитки",
+    "price": 240,
+    "status": false,
+    "date_created": "2025-03-13"
+  }
+]
